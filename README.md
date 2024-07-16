@@ -1,7 +1,7 @@
 Hi, 
 I am Rudraksh Pande, a student in SRM university.
 I know-
-- python
-- c 
-- c++
-- html/css
+- A whole lot about blockchain
+- c/c++
+- javascript/html/js
+- MERN stack 
